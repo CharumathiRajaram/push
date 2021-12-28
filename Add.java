@@ -6,5 +6,7 @@ class Add{
 
 System.out.println("Addition of two numbers:"+sum);
 System.out.println("Addition of two numbers:"+sum);
+  System.out.println("Addition of two numbers:"+sum);
+
   }
 }
